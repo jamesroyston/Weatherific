@@ -1,14 +1,14 @@
 {
-  "main.css": "/Weatherific/static/css/main.798528f2.chunk.css",
-  "main.js": "/Weatherific/static/js/main.af0734a8.chunk.js",
-  "main.js.map": "/Weatherific/static/js/main.af0734a8.chunk.js.map",
-  "runtime~main.js": "/Weatherific/static/js/runtime~main.f3c706f5.js",
-  "runtime~main.js.map": "/Weatherific/static/js/runtime~main.f3c706f5.js.map",
-  "static/js/2.fed86b58.chunk.js": "/Weatherific/static/js/2.fed86b58.chunk.js",
-  "static/js/2.fed86b58.chunk.js.map": "/Weatherific/static/js/2.fed86b58.chunk.js.map",
-  "index.html": "/Weatherific/index.html",
-  "precache-manifest.126183f487d19e97996cd22558e0a2ec.js": "/Weatherific/precache-manifest.126183f487d19e97996cd22558e0a2ec.js",
-  "service-worker.js": "/Weatherific/service-worker.js",
-  "static/css/main.798528f2.chunk.css.map": "/Weatherific/static/css/main.798528f2.chunk.css.map",
-  "static/media/App.css": "/Weatherific/static/media/Stellar-light.7b34a834.otf"
+  "main.css": "/weatherific-fork/static/css/main.59b9f4df.chunk.css",
+  "main.js": "/weatherific-fork/static/js/main.af0734a8.chunk.js",
+  "main.js.map": "/weatherific-fork/static/js/main.af0734a8.chunk.js.map",
+  "runtime~main.js": "/weatherific-fork/static/js/runtime~main.0411198c.js",
+  "runtime~main.js.map": "/weatherific-fork/static/js/runtime~main.0411198c.js.map",
+  "static/js/2.0b1075f3.chunk.js": "/weatherific-fork/static/js/2.0b1075f3.chunk.js",
+  "static/js/2.0b1075f3.chunk.js.map": "/weatherific-fork/static/js/2.0b1075f3.chunk.js.map",
+  "index.html": "/weatherific-fork/index.html",
+  "precache-manifest.81f838cdea1a6528f429fcabeb1f8c41.js": "/weatherific-fork/precache-manifest.81f838cdea1a6528f429fcabeb1f8c41.js",
+  "service-worker.js": "/weatherific-fork/service-worker.js",
+  "static/css/main.59b9f4df.chunk.css.map": "/weatherific-fork/static/css/main.59b9f4df.chunk.css.map",
+  "static/media/App.css": "/weatherific-fork/static/media/Stellar-light.7b34a834.otf"
 }
