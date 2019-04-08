@@ -1,4 +1,8 @@
 .vscode/
 ../node_modules/
 ../build
+node_modules
+build
+myapp/node_modules
+myapp/build
 .DS_Store
