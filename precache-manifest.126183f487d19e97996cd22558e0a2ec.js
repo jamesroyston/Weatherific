@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/Weatherific/static/js/runtime~main.f3c706f5.js"
   },
   {
-    "revision": "b3d0b4500b18374dd483",
-    "url": "/Weatherific/static/js/main.b49ca8bc.chunk.js"
+    "revision": "478628019fa7f18de68b",
+    "url": "/Weatherific/static/js/main.af0734a8.chunk.js"
   },
   {
     "revision": "38eeff9741a8794d4147",
     "url": "/Weatherific/static/js/2.fed86b58.chunk.js"
   },
   {
-    "revision": "b3d0b4500b18374dd483",
-    "url": "/Weatherific/static/css/main.0554fb97.chunk.css"
+    "revision": "478628019fa7f18de68b",
+    "url": "/Weatherific/static/css/main.798528f2.chunk.css"
   },
   {
-    "revision": "45a76bc368cea3939c4d343d1fce1703",
+    "revision": "fc2357a2c696a3bc5f68103bf32f569b",
     "url": "/Weatherific/index.html"
   }
 ];
