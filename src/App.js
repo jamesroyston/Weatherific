@@ -70,10 +70,11 @@ class App extends React.Component {
   }
   
   handleChange(e) {
-    console.log(e.target.value)
+    console.log('log before set state', e.target.value)
     this.setState({
       city: e.target.value.split(' ').join('+'),
     })
+    console.log('after set state', e.target.value)
   }
 
   render() {
